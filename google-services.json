@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "120875841895",
+    "project_id": "protean-horizon-311201",
+    "storage_bucket": "protean-horizon-311201.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120875841895:android:51994985e9f6476569d7c2",
+        "android_client_info": {
+          "package_name": "COM.BLUEMARS.APPpinoco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120875841895-adfvehcpknhnbsmp7aeihgk9qhq1q2lr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMeEIGv7m8mGedym9s1PZR0msol8vAfIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120875841895-adfvehcpknhnbsmp7aeihgk9qhq1q2lr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
